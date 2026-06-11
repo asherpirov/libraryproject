@@ -10,7 +10,7 @@ library members.
 
 ## Technologies Used
 
-- Python
+- Python 
 - FastAPI
 - MySQL
 - Docker
@@ -37,19 +37,9 @@ library-api/
 ```
 ## Installation
 
-**What to write:**  
-List the step-by-step instructions for installing your project on a new computer.
-
-**Why this section exists:**  
-This helps anyone who wants to run your project get it set up correctly.
-
-**Example structure:**
-
 1. Clone the repository:
 ```bash
 https://github.com/asherpirov/libraryproject.git```
-
-
 
 2. Install dependencies:
 ```bash
