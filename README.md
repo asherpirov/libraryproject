@@ -38,10 +38,14 @@ library-api/
 ## Installation
 
 1. Clone the repository:
+
 ```bash
-https://github.com/asherpirov/libraryproject.git```
+https://github.com/asherpirov/libraryproject.git
+```
+
 
 2. Install dependencies:
+
 ```bash
 pip install fastapi uvicorn pydantic 
 ```
